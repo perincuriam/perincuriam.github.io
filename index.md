@@ -1,33 +1,4 @@
 # Per Incuriam Test
+## Testing the subtitles
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Test
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/perincuriam/perincuriam.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+> [20]                          In dealing with Nevsun’s request to strike the claims based on customary international law, Abrioux J. characterized the issue as “whether claims for damages arising out of the alleged breach of jus cogens or peremptory norms of customary international law . . . may form the basis of a civil proceeding in British Columbia”. He said that claims should only be struck if, assuming the pleaded facts to be true, it is “plain and obvious” that the pleadings disclose no reasonable likelihood of success and are bound to fail. He rejected Nevsun’s argument that there is no reasonable prospect at trial that the court would recognize either “claims based on breaches of [customary international law]” or claims for “new torts based on the adoption of the customary norms advanced by the [workers]”. He held that customary international law is incorporated into and forms part of Canadian common law unless there is domestic legislation to the contrary. Neither the State Immunity Act, R.S.C. 1985, c. S-18, nor any other legislation bars the Eritrean workers’ claims. In his view, while novel, the claims stemming from Nevsun’s breaches of customary international law should proceed to trial where they can be evaluated in their factual and legal context, particularly since the prohibitions on slavery, forced labour and crimes against humanity are jus cogens, or peremptory norms of customary international law, from which no derogation is permitted.
